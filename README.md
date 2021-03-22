@@ -1,1 +1,1 @@
-# stepik-pyramid-slide
+# stepik-pixel-art-maker
